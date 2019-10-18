@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+nav {
+    background-color: #abc;
+    margin-bottom: 40px;
+}
+
+
+#menu {
+    padding: 10px;
+}
+
+#menu ul {
+    list-style: none;
+    color: gray;
+}
+
+#menu ul li {
+    display: inline;
+    padding-left: 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#menu ul li a {
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    color: #12f;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 0px;
+}
